@@ -1,1 +1,47 @@
 # pdamodaran.github.io
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Webpage</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>This is a simple webpage created using HTML and CSS.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nonummy magna.</p>
+        <h2>Contact</h2>
+        <p>Email: example@example.com</p>
+    </div>
+</body>
+</html>
